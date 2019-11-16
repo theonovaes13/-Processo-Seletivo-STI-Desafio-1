@@ -8,7 +8,7 @@ e não possua um e-mail iduff ativo.
 
 ## Como rodar o programa:
 ```
-1 - Clone este repositório em sua máquina\n
+1 - Clone este repositório em sua máquina
 2 - Abra seu compilador Python
 3 - Execute o programa
 ```
